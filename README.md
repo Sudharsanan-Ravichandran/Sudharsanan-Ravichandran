@@ -1,5 +1,29 @@
 # 💫 About Me:
-# 👋 Hi, I'm Sudharsanan Ravichandran<br><br>## 📊 Data Analyst | SQL | Python | Power BI | Excel<br><br>Transforming data into actionable insights with a passion for operational excellence and Industry 4.0.<br><br>### 🚀 What I Do<br><br>- **Data Analysis**: Leveraging SQL, Python, and Power BI to extract valuable insights<br>- **Dashboard Development**: Creating interactive visualizations for real-time KPI tracking<br>- **Process Optimization**: Streamlining operations and automating workflows<br>- **AI & Machine Learning**: Exploring cutting-edge technologies to drive innovation<br><br>### 💼 Professional Journey<br><br>- AI Business Fellow at Perplexity (Current)<br>- Advanced Manufacturing Engineering at Magna International<br>- Product Engineer at SL Corporation<br><br>### 🎓 Education<br><br>- Master in Operational Excellence (MBA & Eng.) - Hochschule Hof, University of Applied Sciences<br>- Bachelor's in Mechanical Engineering - Rajalakshmi Institute of Technology<br><br>### 🛠 Tech Stack<br><br>- SQL | Python | R<br>- Power BI | Tableau | Excel (VBA)<br>- CATIA | Scrum | Jira<br><br>### 🌟 Recent Achievements<br><br>- Developed IoT-integrated Power BI dashboards for Industry 4.0 trends<br>- Automated quotation processes, reducing manual effort by 50%<br>- Achieved perfect grade (1.0) for Master Thesis on strategic roadmapping<br><br>### 🌐 Let's Connect!<br><br>I'm always eager to collaborate on data-driven projects or discuss the latest in AI and analytics. Feel free to reach out!<br><br>
+# 👋 Hi, I'm Sudharsanan Ravichandran<br><br>
+## 📊 Data Analyst | SQL | Python | Power BI | Excel<br><br>
+Transforming data into actionable insights with a passion for operational excellence and Industry 4.0.<br><br>
+### 🚀 What I Do<br><br>
+- **Data Analysis**: Leveraging SQL, Python, and Power BI to extract valuable insights<br>
+- **Dashboard Development**: Creating interactive visualizations for real-time KPI tracking<br>
+- **Process Optimization**: Streamlining operations and automating workflows<br>
+- **AI & Machine Learning**: Exploring cutting-edge technologies to drive innovation<br><br>
+### 💼 Professional Journey<br><br>
+- AI Business Fellow at Perplexity (Current)<br>
+- Advanced Manufacturing Engineering at Magna International<br>
+- Product Engineer at SL Corporation<br><br>
+### 🎓 Education<br><br>
+- Master in Operational Excellence (MBA & Eng.) - Hochschule Hof, University of Applied Sciences<br>
+- Bachelor's in Mechanical Engineering - Rajalakshmi Institute of Technology<br><br>
+### 🛠 Tech Stack<br><br>
+- SQL | Python | R<br>
+- Power BI | Tableau | Excel (VBA)<br>
+- CATIA | Scrum | Jira<br><br>
+### 🌟 Recent Achievements<br><br>
+- Developed IoT-integrated Power BI dashboards for Industry 4.0 trends<br>
+- Automated quotation processes, reducing manual effort by 50%<br>
+- Achieved perfect grade (1.0) for Master Thesis on strategic roadmapping<br><br>
+### 🌐 Let's Connect!<br><br>
+I'm always eager to collaborate on data-driven projects or discuss the latest in AI and analytics. Feel free to reach out!<br><br>
 
 
 ## 🌐 Socials:

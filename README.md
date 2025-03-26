@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/44d86264-4c11-4280-9b3a-84b56d2cb493)
 
 # 👋 Hi, I'm Sudharsanan Ravichandran
 ## 📊 Data Analyst | SQL | Python | Power BI | Excel

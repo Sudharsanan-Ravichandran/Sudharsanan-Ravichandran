@@ -1,24 +1,27 @@
 ![image](https://github.com/user-attachments/assets/44d86264-4c11-4280-9b3a-84b56d2cb493)
 
 # 👋 Hi, I'm Sudharsanan Ravichandran
-## 📊 Data Analyst | SQL | Python | Power BI | Excel
-Transforming data into actionable insights with a passion for operational excellence and Industry 4.0.
+## 📊 Data Analyst | Skilled in SQL | Python | Power BI | Tableau | Looker Studio | Excel
+Transforming data into actionable insights with a passion for Manufacturing, Supply Chain and Finance.
 ### 🚀 What I Do
-- **Data Analysis**: Leveraging SQL, Python, and Power BI to extract valuable insights
-- **Dashboard Development**: Creating interactive visualizations for real-time KPI tracking
-- **Process Optimization**: Streamlining operations and automating workflows
-- **AI & Machine Learning**: Exploring cutting-edge technologies to drive innovation
+- **Data Analysis:** Skilled in MySQL, Python, and Advanced Excel to extract and analyze large datasets.
+- **Dashboard Creation:** Built and optimized real-time KPI dashboards using Power BI, Tableau, and Looker Studio.
+- **Cross-Team Collaboration:** Translate complex analyses into clear, actionable insights for technical and non-technical teams.
+- **Process Improvement:** Developed forecasting models and automated analytics workflows to boost efficiency and resource planning.
 ### 💼 Professional Journey
-- AI Business Fellow at Perplexity (Current)
-- Advanced Manufacturing Engineering at Magna International
+- Data Analyst Intern at Albert Clement IT Services | AI Business Fellow at Perplexity (Current)
+- Advanced Manufacturing Engineering (Business Analyst) at Magna International
 - Product Engineer at SL Corporation
 ### 🎓 Education
-- Master in Operational Excellence (MBA & Eng.) - Hochschule Hof, University of Applied Sciences
-- Bachelor's in Mechanical Engineering - Rajalakshmi Institute of Technology
+- Master in Operational Excellence (MBA & Eng.) - Hof University of Applied Sciences
+- Bachelor's in Mechanical Engineering - Anna University
 ### 🛠 Tech Stack
-- SQL | Python | R
-- Power BI | Tableau | Excel (VBA)
-- CATIA | Scrum | Jira
+- SQL (MySQL, SQLite)
+- Python (pandas, numpy)
+- Power BI (DAX, Power Query)
+- Tableau
+- Looker Studio
+- Excel (advanced)
 ### 🌟 Recent Achievements
 - Developed IoT-integrated Power BI dashboards for Industry 4.0 trends
 - Automated quotation processes, reducing manual effort by 50%

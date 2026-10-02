@@ -1,26 +1,27 @@
 ![image](https://github.com/user-attachments/assets/44d86264-4c11-4280-9b3a-84b56d2cb493)
 
 # 👋 Hi, I'm Sudharsanan Ravichandran
-## 📊 Data Analyst | Skilled in SQL | Python | Power BI | Tableau | Looker Studio | Excel
-Transforming data into actionable insights with a passion for Manufacturing, Supply Chain and Finance.
+## 📊 BI Analyst | Skilled in SQL | Tableau | Python | Power BI | Excel | AI Engineering
+Enabling the executives to take quick decision to sustain and grow the business by transforming the knowledge of the business and data.
 ### 🚀 What I Do
 - **Data Analysis:** Skilled in MySQL, Python, and Advanced Excel to extract and analyze large datasets.
 - **Dashboard Creation:** Built and optimized real-time KPI dashboards using Power BI, Tableau, and Looker Studio.
 - **Cross-Team Collaboration:** Translate complex analyses into clear, actionable insights for technical and non-technical teams.
 - **Process Improvement:** Developed forecasting models and automated analytics workflows to boost efficiency and resource planning.
 ### 💼 Professional Journey
-- Data Analyst Intern at Albert Clement IT Services | AI Business Fellow at Perplexity (Current)
-- Advanced Manufacturing Engineering (Business Analyst) at Magna International
-- Product Engineer at SL Corporation
+- BI Analyst at Smart Circle International
+- Data Analyst at Yormas AG
+- Business Analyst at Magna International
+- Operations Analyst at SL Corporation
 ### 🎓 Education
 - Master in Operational Excellence (MBA & Eng.) - Hof University of Applied Sciences
 - Bachelor's in Mechanical Engineering - Anna University
 ### 🛠 Tech Stack
-- SQL (MySQL, SQLite)
+- SQL (MySQL, SQLite, PostgreSQL)
 - Python (pandas, numpy)
 - Power BI (DAX, Power Query)
-- Tableau
-- Looker Studio
+- Tableau (Prep, Desktop & Cloud)
+- LLM (openai, gemini)
 - Excel (advanced)
 ### 🌟 Recent Achievements
 - Developed IoT-integrated Power BI dashboards for Industry 4.0 trends
